@@ -1,0 +1,11 @@
+name: Example
+description: An example template for testing pattern library functionality
+scss: ./example.scss
+html: ./example.twig
+category: templates
+subcategory: example
+data:
+  example:
+    title:
+      text: This is an example template
+      class: example__title
