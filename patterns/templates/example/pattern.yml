@@ -1,6 +1,6 @@
 name: Example
 description: An example template for testing pattern library functionality
-scss: ./example.scss
+sass: ./example.scss
 html: ./example.twig
 script: ./example.js
 category: templates
