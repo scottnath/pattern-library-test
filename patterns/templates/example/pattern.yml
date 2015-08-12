@@ -2,7 +2,7 @@ name: Example
 description: An example template for testing pattern library functionality
 scss: ./example.scss
 html: ./example.twig
-js: ./example.js
+script: ./example.js
 category: templates
 subcategory: example
 data:
